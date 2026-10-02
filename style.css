@@ -785,6 +785,7 @@ header {
 .doodl{
   width: 100vw;
   overflow-x: hidden;
+  margin-top: 12px;
 }
 
 .hello {
@@ -961,6 +962,66 @@ header {
   display: flex;
   justify-content: start;
   align-items: center;
+}
+
+.slidertext{
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  position: relative;
+  top: 95px;
+  right: 95px;
+}
+
+.slidertext1{
+  font-weight: bold;
+  font-size: 17px;
+  color: black;
+  position: relative;
+  left: 25px;
+}
+
+.slidertext2{
+  font-weight: bold;
+  font-size: 17px;
+  color: white;
+  position: relative;
+  left: 35px;
+}
+
+.slidertext3{
+  font-weight: bold;
+  font-size: 17px;
+  color: black;
+  position: relative;
+  left: 25px;
+}
+
+.slidertext4{
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  position: relative;
+  top: 95px;
+  right: 80px;
+}
+
+.slidertext5{
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  position: relative;
+  top: 95px;
+  right: 125px;
+}
+
+.slidertext6{
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  position: relative;
+  top: 95px;
+  right: 130px;
 }
 
 
